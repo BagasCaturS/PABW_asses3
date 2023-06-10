@@ -1,0 +1,4652 @@
+[
+  {
+    "id": 1,
+    "nama": "University of Oxford",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 2,
+    "nama": "Harvard University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 3,
+    "nama": "University of Cambridge",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 4,
+    "nama": "Stanford University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 5,
+    "nama": "Massachusetts Institute of Technology",
+    "lokasi": "United States"
+  },
+  {
+    "id": 6,
+    "nama": "California Institute of Technology",
+    "lokasi": "United States"
+  },
+  {
+    "id": 7,
+    "nama": "Princeton University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 8,
+    "nama": "University of California, Berkeley",
+    "lokasi": "United States"
+  },
+  {
+    "id": 9,
+    "nama": "Yale University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 10,
+    "nama": "Imperial College London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 11,
+    "nama": "Columbia University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 12,
+    "nama": "ETH Zurich",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 13,
+    "nama": "The University of Chicago",
+    "lokasi": "United States"
+  },
+  {
+    "id": 14,
+    "nama": "University of Pennsylvania",
+    "lokasi": "United States"
+  },
+  {
+    "id": 15,
+    "nama": "Johns Hopkins University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 16,
+    "nama": "Tsinghua University",
+    "lokasi": "China"
+  },
+  {
+    "id": 17,
+    "nama": "Peking University",
+    "lokasi": "China"
+  },
+  {
+    "id": 18,
+    "nama": "University of Toronto",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 19,
+    "nama": "National University of Singapore",
+    "lokasi": "Singapore"
+  },
+  {
+    "id": 20,
+    "nama": "Cornell University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 21,
+    "nama": "University of California, Los Angeles",
+    "lokasi": "United States"
+  },
+  {
+    "id": 22,
+    "nama": "UCL",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 23,
+    "nama": "University of Michigan-Ann Arbor",
+    "lokasi": "United States"
+  },
+  {
+    "id": 24,
+    "nama": "New York University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 25,
+    "nama": "Duke University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 26,
+    "nama": "Northwestern University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 27,
+    "nama": "University of Washington",
+    "lokasi": "United States"
+  },
+  {
+    "id": 28,
+    "nama": "Carnegie Mellon University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 29,
+    "nama": "University of Edinburgh",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 30,
+    "nama": "Technical University of Munich",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 31,
+    "nama": "University of Hong Kong",
+    "lokasi": "Hong Kong"
+  },
+  {
+    "id": 32,
+    "nama": "University of California, San Diego",
+    "lokasi": "United States"
+  },
+  {
+    "id": 33,
+    "nama": "LMU Munich",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 34,
+    "nama": "University of Melbourne",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 35,
+    "nama": "King�s College London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 36,
+    "nama": "Nanyang Technological University, Singapore",
+    "lokasi": "Singapore"
+  },
+  {
+    "id": 37,
+    "nama": "London School of Economics and Political Science",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 38,
+    "nama": "Georgia Institute of Technology",
+    "lokasi": "United States"
+  },
+  {
+    "id": 39,
+    "nama": "The University of Tokyo",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 40,
+    "nama": "University of British Columbia",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 41,
+    "nama": "�cole Polytechnique F�d�rale de Lausanne",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 42,
+    "nama": "KU Leuven",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 43,
+    "nama": "Universit�t Heidelberg",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 44,
+    "nama": "Monash University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 45,
+    "nama": "Chinese University of Hong Kong",
+    "lokasi": "Hong Kong"
+  },
+  {
+    "id": 46,
+    "nama": "McGill University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 47,
+    "nama": "Paris Sciences et Lettres � PSL Research University Paris",
+    "lokasi": "France"
+  },
+  {
+    "id": 48,
+    "nama": "University of Illinois at Urbana-Champaign",
+    "lokasi": "United States"
+  },
+  {
+    "id": 49,
+    "nama": "Karolinska Institute",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 50,
+    "nama": "University of Texas at Austin",
+    "lokasi": "United States"
+  },
+  {
+    "id": 51,
+    "nama": "Fudan University",
+    "lokasi": "China"
+  },
+  {
+    "id": 52,
+    "nama": "Shanghai Jiao Tong University",
+    "lokasi": "China"
+  },
+  {
+    "id": 53,
+    "nama": "The University of Queensland",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 54,
+    "nama": "University of Manchester",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 55,
+    "nama": "The University of Sydney",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 56,
+    "nama": "Seoul National University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 57,
+    "nama": "Washington University in St Louis",
+    "lokasi": "United States"
+  },
+  {
+    "id": 58,
+    "nama": "The Hong Kong University of Science and Technology",
+    "lokasi": "Hong Kong"
+  },
+  {
+    "id": 59,
+    "nama": "Wageningen University & Research",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 60,
+    "nama": "University of Amsterdam",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 61,
+    "nama": "Brown University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 62,
+    "nama": "Australian National University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 63,
+    "nama": "University of California, Davis",
+    "lokasi": "United States"
+  },
+  {
+    "id": 64,
+    "nama": "University of California, Santa Barbara",
+    "lokasi": "United States"
+  },
+  {
+    "id": 65,
+    "nama": "University of Southern California",
+    "lokasi": "United States"
+  },
+  {
+    "id": 66,
+    "nama": "Utrecht University",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 67,
+    "nama": "Zhejiang University",
+    "lokasi": "China"
+  },
+  {
+    "id": 68,
+    "nama": "Kyoto University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 69,
+    "nama": "University of North Carolina at Chapel Hill",
+    "lokasi": "United States"
+  },
+  {
+    "id": 70,
+    "nama": "Delft University of Technology",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 71,
+    "nama": "Boston University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 72,
+    "nama": "UNSW Sydney",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 73,
+    "nama": "Charit� - Universit�tsmedizin Berlin",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 74,
+    "nama": "University of Science and Technology of China",
+    "lokasi": "China"
+  },
+  {
+    "id": 75,
+    "nama": "University of Groningen",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 76,
+    "nama": "University of Bristol",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 77,
+    "nama": "Leiden University",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 78,
+    "nama": "Yonsei University (Seoul campus)",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 79,
+    "nama": "Hong Kong Polytechnic University",
+    "lokasi": "Hong Kong"
+  },
+  {
+    "id": 80,
+    "nama": "Erasmus University Rotterdam",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 81,
+    "nama": "University of Wisconsin-Madison",
+    "lokasi": "United States"
+  },
+  {
+    "id": 82,
+    "nama": "Emory University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 83,
+    "nama": "University of Glasgow",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 84,
+    "nama": "University of Zurich",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 85,
+    "nama": "McMaster University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 86,
+    "nama": "Humboldt University of Berlin",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 87,
+    "nama": "University of T�bingen",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 88,
+    "nama": "University of Adelaide",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 89,
+    "nama": "University of Bonn",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 90,
+    "nama": "Sorbonne University",
+    "lokasi": "France"
+  },
+  {
+    "id": 91,
+    "nama": "Free University of Berlin",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 92,
+    "nama": "Korea Advanced Institute of Science and Technology (KAIST)",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 93,
+    "nama": "Universit� Paris-Saclay",
+    "lokasi": "France"
+  },
+  {
+    "id": 94,
+    "nama": "University of Bern",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 95,
+    "nama": "University of California, Irvine",
+    "lokasi": "United States"
+  },
+  {
+    "id": 96,
+    "nama": "Institut Polytechnique de Paris",
+    "lokasi": "France"
+  },
+  {
+    "id": 97,
+    "nama": "Nanjing University",
+    "lokasi": "China"
+  },
+  {
+    "id": 98,
+    "nama": "Vanderbilt University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 99,
+    "nama": "City University of Hong Kong",
+    "lokasi": "Hong Kong"
+  },
+  {
+    "id": 100,
+    "nama": "RWTH Aachen University",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 101,
+    "nama": "University of Basel",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 102,
+    "nama": "King Abdulaziz University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 103,
+    "nama": "University of Minnesota",
+    "lokasi": "United States"
+  },
+  {
+    "id": 104,
+    "nama": "University of Maryland, College Park",
+    "lokasi": "United States"
+  },
+  {
+    "id": 105,
+    "nama": "University of Warwick",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 106,
+    "nama": "Michigan State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 107,
+    "nama": "Ghent University",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 108,
+    "nama": "University of Birmingham",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 109,
+    "nama": "University of Southampton",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 110,
+    "nama": "University of Helsinki",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 111,
+    "nama": "University of Montreal",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 112,
+    "nama": "Ohio State University (Main campus)",
+    "lokasi": "United States"
+  },
+  {
+    "id": 113,
+    "nama": "University of Freiburg",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 114,
+    "nama": "University of Copenhagen",
+    "lokasi": "Denmark"
+  },
+  {
+    "id": 115,
+    "nama": "Universit� Paris Cit�",
+    "lokasi": "France"
+  },
+  {
+    "id": 116,
+    "nama": "University of Sheffield",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 117,
+    "nama": "Aarhus University",
+    "lokasi": "Denmark"
+  },
+  {
+    "id": 118,
+    "nama": "University of Alberta",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 119,
+    "nama": "University of G�ttingen",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 120,
+    "nama": "Lund University",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 121,
+    "nama": "Vrije Universiteit Amsterdam",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 122,
+    "nama": "Lancaster University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 123,
+    "nama": "Dartmouth College",
+    "lokasi": "United States"
+  },
+  {
+    "id": 124,
+    "nama": "Queen Mary University of London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 125,
+    "nama": "University of Vienna",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 126,
+    "nama": "University of Oslo",
+    "lokasi": "Norway"
+  },
+  {
+    "id": 127,
+    "nama": "Purdue University West Lafayette",
+    "lokasi": "United States"
+  },
+  {
+    "id": 128,
+    "nama": "University of Hamburg",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 129,
+    "nama": "University of Leeds",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 130,
+    "nama": "University of Nottingham",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 131,
+    "nama": "University of Antwerp",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 132,
+    "nama": "The University of Western Australia",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 133,
+    "nama": "University of Technology Sydney",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 134,
+    "nama": "Case Western Reserve University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 135,
+    "nama": "University of Lausanne",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 136,
+    "nama": "Georgetown University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 137,
+    "nama": "University of Exeter",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 138,
+    "nama": "University of Ottawa",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 139,
+    "nama": "University of Auckland",
+    "lokasi": "New Zealand"
+  },
+  {
+    "id": 140,
+    "nama": "Newcastle University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 141,
+    "nama": "Radboud University Nijmegen",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 142,
+    "nama": "University of W�rzburg",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 143,
+    "nama": "University of York",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 144,
+    "nama": "University of Pittsburgh-Pittsburgh campus",
+    "lokasi": "United States"
+  },
+  {
+    "id": 145,
+    "nama": "Maastricht University",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 146,
+    "nama": "University of Cologne",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 147,
+    "nama": "Rice University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 148,
+    "nama": "University of Colorado Boulder",
+    "lokasi": "United States"
+  },
+  {
+    "id": 149,
+    "nama": "Ulm University",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 150,
+    "nama": "Uppsala University",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 151,
+    "nama": "University of Florida",
+    "lokasi": "United States"
+  },
+  {
+    "id": 152,
+    "nama": "Penn State (Main campus)",
+    "lokasi": "United States"
+  },
+  {
+    "id": 153,
+    "nama": "Tufts University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 154,
+    "nama": "University of Rochester",
+    "lokasi": "United States"
+  },
+  {
+    "id": 155,
+    "nama": "KTH Royal Institute of Technology",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 156,
+    "nama": "Arizona State University (Tempe)",
+    "lokasi": "United States"
+  },
+  {
+    "id": 157,
+    "nama": "Technical University of Berlin",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 158,
+    "nama": "TU Dresden",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 159,
+    "nama": "University of Virginia (Main campus)",
+    "lokasi": "United States"
+  },
+  {
+    "id": 160,
+    "nama": "University of Cape Town",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 161,
+    "nama": "University of Bologna",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 162,
+    "nama": "Trinity College Dublin",
+    "lokasi": "Ireland"
+  },
+  {
+    "id": 163,
+    "nama": "University of Leicester",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 164,
+    "nama": "Lomonosov Moscow State University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 165,
+    "nama": "Pohang University of Science and Technology (POSTECH)",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 166,
+    "nama": "Southern University of Science and Technology (SUSTech)",
+    "lokasi": "China"
+  },
+  {
+    "id": 167,
+    "nama": "Technical University of Denmark",
+    "lokasi": "Denmark"
+  },
+  {
+    "id": 168,
+    "nama": "Medical University of Graz",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 169,
+    "nama": "Northeastern University, US",
+    "lokasi": "United States"
+  },
+  {
+    "id": 170,
+    "nama": "Indiana University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 171,
+    "nama": "Universit� Catholique de Louvain",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 172,
+    "nama": "Sungkyunkwan University (SKKU)",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 173,
+    "nama": "Wuhan University",
+    "lokasi": "China"
+  },
+  {
+    "id": 174,
+    "nama": "Ulsan National Institute of Science and Technology (UNIST)",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 175,
+    "nama": "Macquarie University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 176,
+    "nama": "Huazhong University of Science and Technology",
+    "lokasi": "China"
+  },
+  {
+    "id": 177,
+    "nama": "University of Liverpool",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 178,
+    "nama": "Stockholm University",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 179,
+    "nama": "University of Mannheim",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 180,
+    "nama": "University of Arizona",
+    "lokasi": "United States"
+  },
+  {
+    "id": 181,
+    "nama": "Texas A&M University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 182,
+    "nama": "University of Barcelona",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 183,
+    "nama": "Autonomous University of Barcelona",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 184,
+    "nama": "Scuola Normale Superiore di Pisa",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 185,
+    "nama": "University of M�nster",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 186,
+    "nama": "Pompeu Fabra University",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 187,
+    "nama": "Cardiff University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 188,
+    "nama": "National Taiwan University (NTU)",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 189,
+    "nama": "Friedrich Schiller University Jena",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 190,
+    "nama": "Karlsruhe Institute of Technology",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 191,
+    "nama": "University of Massachusetts",
+    "lokasi": "United States"
+  },
+  {
+    "id": 192,
+    "nama": "University of Aberdeen",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 193,
+    "nama": "University of California, Santa Cruz",
+    "lokasi": "United States"
+  },
+  {
+    "id": 194,
+    "nama": "Medical University of Vienna",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 195,
+    "nama": "University of Miami",
+    "lokasi": "United States"
+  },
+  {
+    "id": 196,
+    "nama": "University of Erlangen-Nuremberg",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 197,
+    "nama": "Sichuan University",
+    "lokasi": "China"
+  },
+  {
+    "id": 198,
+    "nama": "Durham University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 199,
+    "nama": "Queen�s University Belfast",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 200,
+    "nama": "University of Reading",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 201,
+    "nama": "Aalto University",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 202,
+    "nama": "University of Bergen",
+    "lokasi": "Norway"
+  },
+  {
+    "id": 203,
+    "nama": "Bielefeld University",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 204,
+    "nama": "University of Calgary",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 205,
+    "nama": "Curtin University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 206,
+    "nama": "University of Dundee",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 207,
+    "nama": "University of East Anglia",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 208,
+    "nama": "Eindhoven University of Technology",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 209,
+    "nama": "University of Geneva",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 210,
+    "nama": "George Washington University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 211,
+    "nama": "University of Gothenburg",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 212,
+    "nama": "University of Hohenheim",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 213,
+    "nama": "Humanitas University",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 214,
+    "nama": "King Fahd University of Petroleum and Minerals",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 215,
+    "nama": "University of Konstanz",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 216,
+    "nama": "Korea University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 217,
+    "nama": "Universit� Libre de Bruxelles",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 218,
+    "nama": "University of Luxembourg",
+    "lokasi": "Luxembourg"
+  },
+  {
+    "id": 219,
+    "nama": "University of Macau",
+    "lokasi": "Macao"
+  },
+  {
+    "id": 220,
+    "nama": "Macau University of Science and Technology",
+    "lokasi": "Macao"
+  },
+  {
+    "id": 221,
+    "nama": "Medical University of Innsbruck",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 222,
+    "nama": "Moscow Institute of Physics and Technology (MIPT)",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 223,
+    "nama": "University of Newcastle",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 224,
+    "nama": "University of Notre Dame",
+    "lokasi": "United States"
+  },
+  {
+    "id": 225,
+    "nama": "University of Padua",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 226,
+    "nama": "University of Potsdam",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 227,
+    "nama": "Qatar University",
+    "lokasi": "Qatar"
+  },
+  {
+    "id": 228,
+    "nama": "Queensland University of Technology",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 229,
+    "nama": "RCSI University of Medicine and Health Sciences",
+    "lokasi": "Ireland"
+  },
+  {
+    "id": 230,
+    "nama": "Rutgers University � New Brunswick",
+    "lokasi": "United States"
+  },
+  {
+    "id": 231,
+    "nama": "St George�s, University of London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 232,
+    "nama": "Sant�Anna School of Advanced Studies � Pisa",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 233,
+    "nama": "University of S�o Paulo",
+    "lokasi": "Brazil"
+  },
+  {
+    "id": 234,
+    "nama": "Sapienza University of Rome",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 235,
+    "nama": "Semmelweis University",
+    "lokasi": "Hungary"
+  },
+  {
+    "id": 236,
+    "nama": "University of South Florida",
+    "lokasi": "United States"
+  },
+  {
+    "id": 237,
+    "nama": "University of St Andrews",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 238,
+    "nama": "University of Surrey",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 239,
+    "nama": "University of Sussex",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 240,
+    "nama": "Universit� della Svizzera italiana",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 241,
+    "nama": "University of Tartu",
+    "lokasi": "Estonia"
+  },
+  {
+    "id": 242,
+    "nama": "Tel Aviv University",
+    "lokasi": "Israel"
+  },
+  {
+    "id": 243,
+    "nama": "Tohoku University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 244,
+    "nama": "University College Dublin",
+    "lokasi": "Ireland"
+  },
+  {
+    "id": 245,
+    "nama": "Vita-Salute San Raffaele University",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 246,
+    "nama": "Vrije Universiteit Brussel",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 247,
+    "nama": "University of Waterloo",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 248,
+    "nama": "Western University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 249,
+    "nama": "Western Sydney University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 250,
+    "nama": "University of Wollongong",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 251,
+    "nama": "Aalborg University",
+    "lokasi": "Denmark"
+  },
+  {
+    "id": 252,
+    "nama": "Auckland University of Technology",
+    "lokasi": "New Zealand"
+  },
+  {
+    "id": 253,
+    "nama": "Australian Catholic University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 254,
+    "nama": "University of Bath",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 255,
+    "nama": "Beijing Normal University",
+    "lokasi": "China"
+  },
+  {
+    "id": 256,
+    "nama": "Bond University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 257,
+    "nama": "Boston College",
+    "lokasi": "United States"
+  },
+  {
+    "id": 258,
+    "nama": "Bournemouth University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 259,
+    "nama": "Brighton and Sussex Medical School",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 260,
+    "nama": "University of California, Riverside",
+    "lokasi": "United States"
+  },
+  {
+    "id": 261,
+    "nama": "University of Canberra",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 262,
+    "nama": "Chalmers University of Technology",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 263,
+    "nama": "China Medical University, Taiwan",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 264,
+    "nama": "Copenhagen Business School",
+    "lokasi": "Denmark"
+  },
+  {
+    "id": 265,
+    "nama": "Deakin University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 266,
+    "nama": "University of Duisburg-Essen",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 267,
+    "nama": "Heinrich Heine University D�sseldorf",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 268,
+    "nama": "�cole des Ponts ParisTech",
+    "lokasi": "France"
+  },
+  {
+    "id": 269,
+    "nama": "Goethe University Frankfurt",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 270,
+    "nama": "Griffith University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 271,
+    "nama": "University of Hawai�i at M?noa",
+    "lokasi": "United States"
+  },
+  {
+    "id": 272,
+    "nama": "Hebrew University of Jerusalem",
+    "lokasi": "Israel"
+  },
+  {
+    "id": 273,
+    "nama": "University of Illinois Chicago",
+    "lokasi": "United States"
+  },
+  {
+    "id": 274,
+    "nama": "Indian Institute of Science",
+    "lokasi": "India"
+  },
+  {
+    "id": 275,
+    "nama": "Johannes Gutenberg University of Mainz",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 276,
+    "nama": "University of Kiel",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 277,
+    "nama": "King Saud University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 278,
+    "nama": "Kyung Hee University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 279,
+    "nama": "La Trobe University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 280,
+    "nama": "Universit� Laval",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 281,
+    "nama": "Link�ping University",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 282,
+    "nama": "University of Navarra",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 283,
+    "nama": "Oregon Health and Science University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 284,
+    "nama": "Osaka University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 285,
+    "nama": "University of Pavia",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 286,
+    "nama": "Queen�s University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 287,
+    "nama": "Ruhr University Bochum",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 288,
+    "nama": "Sejong University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 289,
+    "nama": "University of Sharjah",
+    "lokasi": "United Arab Emirates"
+  },
+  {
+    "id": 290,
+    "nama": "Simon Fraser University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 291,
+    "nama": "University of Southern Denmark",
+    "lokasi": "Denmark"
+  },
+  {
+    "id": 292,
+    "nama": "Stellenbosch University",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 293,
+    "nama": "Sun Yat-sen University",
+    "lokasi": "China"
+  },
+  {
+    "id": 294,
+    "nama": "Swansea University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 295,
+    "nama": "Tilburg University",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 296,
+    "nama": "Tongji University",
+    "lokasi": "China"
+  },
+  {
+    "id": 297,
+    "nama": "University of Twente",
+    "lokasi": "Netherlands"
+  },
+  {
+    "id": 298,
+    "nama": "United Arab Emirates University",
+    "lokasi": "United Arab Emirates"
+  },
+  {
+    "id": 299,
+    "nama": "University of Utah",
+    "lokasi": "United States"
+  },
+  {
+    "id": 300,
+    "nama": "Virginia Polytechnic Institute and State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 301,
+    "nama": "University of the Witwatersrand",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 302,
+    "nama": "Abu Dhabi University",
+    "lokasi": "United Arab Emirates"
+  },
+  {
+    "id": 303,
+    "nama": "Aix-Marseille University",
+    "lokasi": "France"
+  },
+  {
+    "id": 304,
+    "nama": "Alfaisal University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 305,
+    "nama": "Anglia Ruskin University (ARU)",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 306,
+    "nama": "Autonomous University of Madrid",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 307,
+    "nama": "University of Bordeaux",
+    "lokasi": "France"
+  },
+  {
+    "id": 308,
+    "nama": "Brandeis University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 309,
+    "nama": "Universiti Brunei Darussalam",
+    "lokasi": "Brunei Darussalam"
+  },
+  {
+    "id": 310,
+    "nama": "University at Buffalo",
+    "lokasi": "United States"
+  },
+  {
+    "id": 311,
+    "nama": "University of California, Merced",
+    "lokasi": "United States"
+  },
+  {
+    "id": 312,
+    "nama": "University of Colorado Denver/Anschutz Medical Campus",
+    "lokasi": "United States"
+  },
+  {
+    "id": 313,
+    "nama": "Dalhousie University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 314,
+    "nama": "Drexel University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 315,
+    "nama": "�cole Normale Sup�rieure de Lyon",
+    "lokasi": "France"
+  },
+  {
+    "id": 316,
+    "nama": "University of Essex",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 317,
+    "nama": "Flinders University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 318,
+    "nama": "Florida State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 319,
+    "nama": "University of Galway",
+    "lokasi": "Ireland"
+  },
+  {
+    "id": 320,
+    "nama": "George Mason University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 321,
+    "nama": "Hasselt University",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 322,
+    "nama": "University of Iowa",
+    "lokasi": "United States"
+  },
+  {
+    "id": 323,
+    "nama": "Lappeenranta-Lahti University of Technology LUT",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 324,
+    "nama": "University of Milan",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 325,
+    "nama": "University of Milan-Bicocca",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 326,
+    "nama": "Montpellier University",
+    "lokasi": "France"
+  },
+  {
+    "id": 327,
+    "nama": "Nagoya University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 328,
+    "nama": "Nankai University",
+    "lokasi": "China"
+  },
+  {
+    "id": 329,
+    "nama": "University of Otago",
+    "lokasi": "New Zealand"
+  },
+  {
+    "id": 330,
+    "nama": "University of Oulu",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 331,
+    "nama": "Peter the Great St Petersburg Polytechnic University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 332,
+    "nama": "Politecnico di Milano",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 333,
+    "nama": "Reykjav�k University",
+    "lokasi": "Iceland"
+  },
+  {
+    "id": 334,
+    "nama": "RMIT University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 335,
+    "nama": "University of St Gallen",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 336,
+    "nama": "Saint Louis University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 337,
+    "nama": "University of South Australia",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 338,
+    "nama": "University of Southern Queensland",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 339,
+    "nama": "Stony Brook University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 340,
+    "nama": "University of Stuttgart",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 341,
+    "nama": "Swinburne University of Technology",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 342,
+    "nama": "Taipei Medical University",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 343,
+    "nama": "Tampere University",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 344,
+    "nama": "University of Tasmania",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 345,
+    "nama": "Technical University of Darmstadt",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 346,
+    "nama": "Temple University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 347,
+    "nama": "The University of Tennessee-Knoxville",
+    "lokasi": "United States"
+  },
+  {
+    "id": 348,
+    "nama": "Tokyo Institute of Technology",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 349,
+    "nama": "University College Cork",
+    "lokasi": "Ireland"
+  },
+  {
+    "id": 350,
+    "nama": "University of Victoria",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 351,
+    "nama": "American University of Beirut",
+    "lokasi": "Lebanon"
+  },
+  {
+    "id": 352,
+    "nama": "Asia University, Taiwan",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 353,
+    "nama": "Ateneo de Manila University",
+    "lokasi": "Philippines"
+  },
+  {
+    "id": 354,
+    "nama": "Birkbeck, University of London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 355,
+    "nama": "University of Bremen",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 356,
+    "nama": "University of Brescia",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 357,
+    "nama": "University of Cape Coast",
+    "lokasi": "Ghana"
+  },
+  {
+    "id": 358,
+    "nama": "Catholic University of Portugal",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 359,
+    "nama": "Central South University",
+    "lokasi": "China"
+  },
+  {
+    "id": 360,
+    "nama": "Charles Darwin University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 361,
+    "nama": "City, University of London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 362,
+    "nama": "University of Delaware",
+    "lokasi": "United States"
+  },
+  {
+    "id": 363,
+    "nama": "East China Normal University",
+    "lokasi": "China"
+  },
+  {
+    "id": 364,
+    "nama": "Edith Cowan University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 365,
+    "nama": "Golestan University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 366,
+    "nama": "University of Greifswald",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 367,
+    "nama": "University of Hail",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 368,
+    "nama": "Harbin Institute of Technology",
+    "lokasi": "China"
+  },
+  {
+    "id": 369,
+    "nama": "Howard University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 370,
+    "nama": "Imam Mohammad Ibn Saud Islamic University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 371,
+    "nama": "IMT Atlantique",
+    "lokasi": "France"
+  },
+  {
+    "id": 372,
+    "nama": "James Cook University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 373,
+    "nama": "JSS Academy of Higher Education and Research",
+    "lokasi": "India"
+  },
+  {
+    "id": 374,
+    "nama": "University of Kent",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 375,
+    "nama": "Khalifa University",
+    "lokasi": "United Arab Emirates"
+  },
+  {
+    "id": 376,
+    "nama": "Kurdistan University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 377,
+    "nama": "Leuphana University of L�neburg",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 378,
+    "nama": "University of Li�ge",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 379,
+    "nama": "Loughborough University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 380,
+    "nama": "University of Malaya",
+    "lokasi": "Malaysia"
+  },
+  {
+    "id": 381,
+    "nama": "University of Manitoba",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 382,
+    "nama": "Mazandaran University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 383,
+    "nama": "University of Naples Federico II",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 384,
+    "nama": "University of New Mexico (Main campus)",
+    "lokasi": "United States"
+  },
+  {
+    "id": 385,
+    "nama": "North Carolina State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 386,
+    "nama": "University of Rome II � Tor Vergata",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 387,
+    "nama": "Royal Holloway, University of London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 388,
+    "nama": "Royal Veterinary College",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 389,
+    "nama": "Rush University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 390,
+    "nama": "Shoolini University of Biotechnology and Management Sciences",
+    "lokasi": "India"
+  },
+  {
+    "id": 391,
+    "nama": "University of Stirling",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 392,
+    "nama": "Swedish University of Agricultural Sciences",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 393,
+    "nama": "University of Texas at Dallas",
+    "lokasi": "United States"
+  },
+  {
+    "id": 394,
+    "nama": "Tulane University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 395,
+    "nama": "University of Turku",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 396,
+    "nama": "University of Vaasa",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 397,
+    "nama": "Verona University",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 398,
+    "nama": "Wake Forest University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 399,
+    "nama": "Washington State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 400,
+    "nama": "Wroclaw Medical University",
+    "lokasi": "Poland"
+  },
+  {
+    "id": 401,
+    "nama": "Alagappa University",
+    "lokasi": "India"
+  },
+  {
+    "id": 402,
+    "nama": "University of Alaska Fairbanks",
+    "lokasi": "United States"
+  },
+  {
+    "id": 403,
+    "nama": "Arak University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 404,
+    "nama": "Aston University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 405,
+    "nama": "Aswan University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 406,
+    "nama": "Babol University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 407,
+    "nama": "Babol Noshirvani University of Technology",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 408,
+    "nama": "Bangor University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 409,
+    "nama": "University of Bayreuth",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 410,
+    "nama": "Brunel University London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 411,
+    "nama": "University of Campinas",
+    "lokasi": "Brazil"
+  },
+  {
+    "id": 412,
+    "nama": "Cankaya University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 413,
+    "nama": "University of Catania",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 414,
+    "nama": "Claude Bernard University Lyon 1",
+    "lokasi": "France"
+  },
+  {
+    "id": 415,
+    "nama": "Colorado School of Mines",
+    "lokasi": "United States"
+  },
+  {
+    "id": 416,
+    "nama": "Colorado State University, Fort Collins",
+    "lokasi": "United States"
+  },
+  {
+    "id": 417,
+    "nama": "Complutense University of Madrid",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 418,
+    "nama": "University of Connecticut",
+    "lokasi": "United States"
+  },
+  {
+    "id": 419,
+    "nama": "University of Crete",
+    "lokasi": "Greece"
+  },
+  {
+    "id": 420,
+    "nama": "University of Cyprus",
+    "lokasi": "Cyprus"
+  },
+  {
+    "id": 421,
+    "nama": "University of Denver",
+    "lokasi": "United States"
+  },
+  {
+    "id": 422,
+    "nama": "Dublin City University",
+    "lokasi": "Ireland"
+  },
+  {
+    "id": 423,
+    "nama": "Duy Tan University",
+    "lokasi": "Vietnam"
+  },
+  {
+    "id": 424,
+    "nama": "Edinburgh Napier University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 425,
+    "nama": "University of Electronic Science and Technology of China",
+    "lokasi": "China"
+  },
+  {
+    "id": 426,
+    "nama": "Ferhat Abbas S�tif University 1",
+    "lokasi": "Algeria"
+  },
+  {
+    "id": 427,
+    "nama": "University of Ferrara",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 428,
+    "nama": "University of Florence",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 429,
+    "nama": "Free University of Bozen-Bolzano",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 430,
+    "nama": "University of Genoa",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 431,
+    "nama": "Georgia State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 432,
+    "nama": "Universit� Grenoble Alpes",
+    "lokasi": "France"
+  },
+  {
+    "id": 433,
+    "nama": "Hanyang University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 434,
+    "nama": "HSE University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 435,
+    "nama": "Hunan University",
+    "lokasi": "China"
+  },
+  {
+    "id": 436,
+    "nama": "University of Ibadan",
+    "lokasi": "Nigeria"
+  },
+  {
+    "id": 437,
+    "nama": "Illinois Institute of Technology",
+    "lokasi": "United States"
+  },
+  {
+    "id": 438,
+    "nama": "University of Innsbruck",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 439,
+    "nama": "Institut Agro",
+    "lokasi": "France"
+  },
+  {
+    "id": 440,
+    "nama": "University of International Business and Economics",
+    "lokasi": "China"
+  },
+  {
+    "id": 441,
+    "nama": "Iowa State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 442,
+    "nama": "Jazan University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 443,
+    "nama": "Justus Liebig University Giessen",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 444,
+    "nama": "University of Jyv�skyl�",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 445,
+    "nama": "University of Kansas",
+    "lokasi": "United States"
+  },
+  {
+    "id": 446,
+    "nama": "University of Klagenfurt",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 447,
+    "nama": "Ko� University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 448,
+    "nama": "University of KwaZulu-Natal",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 449,
+    "nama": "University of Lagos",
+    "lokasi": "Nigeria"
+  },
+  {
+    "id": 450,
+    "nama": "Leibniz University Hannover",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 451,
+    "nama": "Lincoln University",
+    "lokasi": "New Zealand"
+  },
+  {
+    "id": 452,
+    "nama": "University of Lincoln",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 453,
+    "nama": "Liverpool John Moores University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 454,
+    "nama": "Mahatma Gandhi University",
+    "lokasi": "India"
+  },
+  {
+    "id": 455,
+    "nama": "University of Marburg",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 456,
+    "nama": "Maynooth University",
+    "lokasi": "Ireland"
+  },
+  {
+    "id": 457,
+    "nama": "Middlesex University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 458,
+    "nama": "University of Modena and Reggio Emilia",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 459,
+    "nama": "Muhimbili University of Health and Allied Sciences",
+    "lokasi": "Tanzania"
+  },
+  {
+    "id": 460,
+    "nama": "Murdoch University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 461,
+    "nama": "National and Kapodistrian University of Athens",
+    "lokasi": "Greece"
+  },
+  {
+    "id": 462,
+    "nama": "National Research Nuclear University MEPhI",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 463,
+    "nama": "University of Nebraska-Lincoln",
+    "lokasi": "United States"
+  },
+  {
+    "id": 464,
+    "nama": "University of Nebraska Medical Center",
+    "lokasi": "United States"
+  },
+  {
+    "id": 465,
+    "nama": "Norwegian University of Science and Technology",
+    "lokasi": "Norway"
+  },
+  {
+    "id": 466,
+    "nama": "Nova Southeastern University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 467,
+    "nama": "�rebro University",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 468,
+    "nama": "University of Passau",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 469,
+    "nama": "University of Pisa",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 470,
+    "nama": "University of Plymouth",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 471,
+    "nama": "Pontificia Universidad Cat�lica de Chile",
+    "lokasi": "Chile"
+  },
+  {
+    "id": 472,
+    "nama": "University of Porto",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 473,
+    "nama": "University of Portsmouth",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 474,
+    "nama": "Qazvin University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 475,
+    "nama": "Qom University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 476,
+    "nama": "Quaid-i-Azam University",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 477,
+    "nama": "Sabanc? University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 478,
+    "nama": "Sharif University of Technology",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 479,
+    "nama": "Shenzhen University",
+    "lokasi": "China"
+  },
+  {
+    "id": 480,
+    "nama": "University of Siena",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 481,
+    "nama": "South China University of Technology",
+    "lokasi": "China"
+  },
+  {
+    "id": 482,
+    "nama": "Southeast University",
+    "lokasi": "China"
+  },
+  {
+    "id": 483,
+    "nama": "Southern Medical University",
+    "lokasi": "China"
+  },
+  {
+    "id": 484,
+    "nama": "SRUC (Scotland�s Rural College)",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 485,
+    "nama": "University of Strathclyde",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 486,
+    "nama": "Sumy State University",
+    "lokasi": "Ukraine"
+  },
+  {
+    "id": 487,
+    "nama": "Syracuse University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 488,
+    "nama": "Universiti Teknologi Petronas",
+    "lokasi": "Malaysia"
+  },
+  {
+    "id": 489,
+    "nama": "Tianjin University",
+    "lokasi": "China"
+  },
+  {
+    "id": 490,
+    "nama": "Ton Duc Thang University",
+    "lokasi": "Vietnam"
+  },
+  {
+    "id": 491,
+    "nama": "University of Trento",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 492,
+    "nama": "The University of Tulsa",
+    "lokasi": "United States"
+  },
+  {
+    "id": 493,
+    "nama": "University of Turin",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 494,
+    "nama": "TU Wien",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 495,
+    "nama": "Ume� University",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 496,
+    "nama": "Urmia University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 497,
+    "nama": "Universiti Utara Malaysia",
+    "lokasi": "Malaysia"
+  },
+  {
+    "id": 498,
+    "nama": "Victoria University of Wellington",
+    "lokasi": "New Zealand"
+  },
+  {
+    "id": 499,
+    "nama": "University of Waikato",
+    "lokasi": "New Zealand"
+  },
+  {
+    "id": 500,
+    "nama": "University of the West of England",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 501,
+    "nama": "William & Mary",
+    "lokasi": "United States"
+  },
+  {
+    "id": 502,
+    "nama": "Xiamen University",
+    "lokasi": "China"
+  },
+  {
+    "id": 503,
+    "nama": "York University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 504,
+    "nama": "Aberystwyth University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 505,
+    "nama": "An-Najah National University",
+    "lokasi": "Palestine"
+  },
+  {
+    "id": 506,
+    "nama": "University of L�Aquila",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 507,
+    "nama": "Bauman Moscow State Technical University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 508,
+    "nama": "Beihang University",
+    "lokasi": "China"
+  },
+  {
+    "id": 509,
+    "nama": "Beijing Institute of Technology",
+    "lokasi": "China"
+  },
+  {
+    "id": 510,
+    "nama": "Birmingham City University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 511,
+    "nama": "University of Bradford",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 512,
+    "nama": "Bucharest University of Economic Studies",
+    "lokasi": "Romania"
+  },
+  {
+    "id": 513,
+    "nama": "Centrale Nantes",
+    "lokasi": "France"
+  },
+  {
+    "id": 514,
+    "nama": "Changsha University of Science and Technology",
+    "lokasi": "China"
+  },
+  {
+    "id": 515,
+    "nama": "Charles University",
+    "lokasi": "Czech Republic"
+  },
+  {
+    "id": 516,
+    "nama": "University of C�te d�Azur",
+    "lokasi": "France"
+  },
+  {
+    "id": 517,
+    "nama": "Damietta University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 518,
+    "nama": "Durban University of Technology",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 519,
+    "nama": "Eastern Mediterranean University",
+    "lokasi": "Northern Cyprus"
+  },
+  {
+    "id": 520,
+    "nama": "�cole des Mines de Saint-�tienne",
+    "lokasi": "France"
+  },
+  {
+    "id": 521,
+    "nama": "Federal University of Toulouse Midi-Pyr�n�es",
+    "lokasi": "France"
+  },
+  {
+    "id": 522,
+    "nama": "Florida International University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 523,
+    "nama": "University of Fribourg",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 524,
+    "nama": "Goldsmiths, University of London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 525,
+    "nama": "Government College University Faisalabad",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 526,
+    "nama": "University of Greenwich",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 527,
+    "nama": "University of Guelph",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 528,
+    "nama": "Gwangju Institute of Science and Technology (GIST)",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 529,
+    "nama": "Harokopio University of Athens",
+    "lokasi": "Greece"
+  },
+  {
+    "id": 530,
+    "nama": "Heriot-Watt University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 531,
+    "nama": "Hokkaido University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 532,
+    "nama": "Hong Kong Baptist University",
+    "lokasi": "Hong Kong"
+  },
+  {
+    "id": 533,
+    "nama": "University of Hull",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 534,
+    "nama": "University of Iceland",
+    "lokasi": "Iceland"
+  },
+  {
+    "id": 535,
+    "nama": "Indian Institute of Technology Ropar",
+    "lokasi": "India"
+  },
+  {
+    "id": 536,
+    "nama": "University of Insubria",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 537,
+    "nama": "International Institute of Information Technology, Hyderabad",
+    "lokasi": "India"
+  },
+  {
+    "id": 538,
+    "nama": "Iran University of Science and Technology",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 539,
+    "nama": "Islamic Azad University, Najafabad Branch (IAUN)",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 540,
+    "nama": "Constructor University",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 541,
+    "nama": "Jamia Millia Islamia",
+    "lokasi": "India"
+  },
+  {
+    "id": 542,
+    "nama": "Jimma University",
+    "lokasi": "Ethiopia"
+  },
+  {
+    "id": 543,
+    "nama": "Johannes Kepler University of Linz",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 544,
+    "nama": "Jordan University of Science and Technology",
+    "lokasi": "Jordan"
+  },
+  {
+    "id": 545,
+    "nama": "Kafrelsheikh University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 546,
+    "nama": "Kashan University of Medical Sciences and Health Services",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 547,
+    "nama": "Keele University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 548,
+    "nama": "University of Kentucky",
+    "lokasi": "United States"
+  },
+  {
+    "id": 549,
+    "nama": "Kermanshah University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 550,
+    "nama": "University of Kragujevac",
+    "lokasi": "Serbia"
+  },
+  {
+    "id": 551,
+    "nama": "Kyushu University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 552,
+    "nama": "Lebanese American University",
+    "lokasi": "Lebanon"
+  },
+  {
+    "id": 553,
+    "nama": "University of Lille",
+    "lokasi": "France"
+  },
+  {
+    "id": 554,
+    "nama": "University of Lisbon",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 555,
+    "nama": "University of Management and Technology",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 556,
+    "nama": "University of Messina",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 557,
+    "nama": "Middle East Technical University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 558,
+    "nama": "Missouri University of Science and Technology",
+    "lokasi": "United States"
+  },
+  {
+    "id": 559,
+    "nama": "University of Mons",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 560,
+    "nama": "National Tsing Hua University",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 561,
+    "nama": "National Yang Ming Chiao Tung University",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 562,
+    "nama": "University of Neuch�tel",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 563,
+    "nama": "University of Nicosia",
+    "lokasi": "Cyprus"
+  },
+  {
+    "id": 564,
+    "nama": "Northumbria University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 565,
+    "nama": "Northwestern Polytechnical University",
+    "lokasi": "China"
+  },
+  {
+    "id": 566,
+    "nama": "Nottingham Trent University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 567,
+    "nama": "Open University of Catalonia",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 568,
+    "nama": "University of Peradeniya",
+    "lokasi": "Sri Lanka"
+  },
+  {
+    "id": 569,
+    "nama": "Universitat Ramon Llull",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 570,
+    "nama": "Saint-Petersburg Mining University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 571,
+    "nama": "University of Salerno",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 572,
+    "nama": "University of Saskatchewan",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 573,
+    "nama": "University of Sassari",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 574,
+    "nama": "Saveetha Institute of Medical and Technical Sciences",
+    "lokasi": "India"
+  },
+  {
+    "id": 575,
+    "nama": "Sciences Po",
+    "lokasi": "France"
+  },
+  {
+    "id": 576,
+    "nama": "Shiraz University of Technology",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 577,
+    "nama": "SOAS University of London",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 578,
+    "nama": "University of South Carolina-Columbia",
+    "lokasi": "United States"
+  },
+  {
+    "id": 579,
+    "nama": "Southwestern University of Finance and Economics",
+    "lokasi": "China"
+  },
+  {
+    "id": 580,
+    "nama": "University of Stavanger",
+    "lokasi": "Norway"
+  },
+  {
+    "id": 581,
+    "nama": "Stevens Institute of Technology",
+    "lokasi": "United States"
+  },
+  {
+    "id": 582,
+    "nama": "SUNY University at Albany",
+    "lokasi": "United States"
+  },
+  {
+    "id": 583,
+    "nama": "University of Tabuk",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 584,
+    "nama": "Technion Israel Institute of Technology",
+    "lokasi": "Israel"
+  },
+  {
+    "id": 585,
+    "nama": "Tokyo Medical and Dental University (TMDU)",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 586,
+    "nama": "University of Trieste",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 587,
+    "nama": "University of Tsukuba",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 588,
+    "nama": "TU Dortmund University",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 589,
+    "nama": "University of Tuscia",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 590,
+    "nama": "University of Udine",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 591,
+    "nama": "UiT The Arctic University of Norway",
+    "lokasi": "Norway"
+  },
+  {
+    "id": 592,
+    "nama": "University of Valencia",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 593,
+    "nama": "University of Vic � Central University of Catalonia",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 594,
+    "nama": "Victoria University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 595,
+    "nama": "Virginia Commonwealth University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 596,
+    "nama": "Wayne State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 597,
+    "nama": "The University of the West Indies",
+    "lokasi": "Jamaica"
+  },
+  {
+    "id": 598,
+    "nama": "Xi�an Jiaotong University",
+    "lokasi": "China"
+  },
+  {
+    "id": 599,
+    "nama": "University of Zambia",
+    "lokasi": "Zambia"
+  },
+  {
+    "id": 600,
+    "nama": "Zayed University",
+    "lokasi": "United Arab Emirates"
+  },
+  {
+    "id": 601,
+    "nama": "Zhejiang Normal University",
+    "lokasi": "China"
+  },
+  {
+    "id": 602,
+    "nama": "Abdul Wali Khan University Mardan",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 603,
+    "nama": "�bo Akademi University",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 604,
+    "nama": "Addis Ababa University",
+    "lokasi": "Ethiopia"
+  },
+  {
+    "id": 605,
+    "nama": "Ahvaz Jundishapur University of Medical Sciences (AJUMS)",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 606,
+    "nama": "Ajou University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 607,
+    "nama": "Amedeo Avogadro University of Eastern Piedmont",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 608,
+    "nama": "American University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 609,
+    "nama": "American University of Sharjah",
+    "lokasi": "United Arab Emirates"
+  },
+  {
+    "id": 610,
+    "nama": "Amirkabir University of Technology",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 611,
+    "nama": "University of Antofagasta",
+    "lokasi": "Chile"
+  },
+  {
+    "id": 612,
+    "nama": "University of Arkansas",
+    "lokasi": "United States"
+  },
+  {
+    "id": 613,
+    "nama": "Auburn University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 614,
+    "nama": "Azarbaijan Shahid Madani University",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 615,
+    "nama": "University of Babylon",
+    "lokasi": "Iraq"
+  },
+  {
+    "id": 616,
+    "nama": "Bah�e?ehir University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 617,
+    "nama": "Bahria University",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 618,
+    "nama": "Banaras Hindu University",
+    "lokasi": "India"
+  },
+  {
+    "id": 619,
+    "nama": "University of Bari Aldo Moro",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 620,
+    "nama": "Bar-Ilan University",
+    "lokasi": "Israel"
+  },
+  {
+    "id": 621,
+    "nama": "Baylor University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 622,
+    "nama": "Beirut Arab University",
+    "lokasi": "Lebanon"
+  },
+  {
+    "id": 623,
+    "nama": "Ben-Gurion University of the Negev",
+    "lokasi": "Israel"
+  },
+  {
+    "id": 624,
+    "nama": "Benha University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 625,
+    "nama": "Universit� Bourgogne Franche-Comt� (UBFC)",
+    "lokasi": "France"
+  },
+  {
+    "id": 626,
+    "nama": "Ca� Foscari University of Venice",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 627,
+    "nama": "University of Camerino (Unicam)",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 628,
+    "nama": "University of Canterbury",
+    "lokasi": "New Zealand"
+  },
+  {
+    "id": 629,
+    "nama": "Capital Medical University",
+    "lokasi": "China"
+  },
+  {
+    "id": 630,
+    "nama": "Carleton University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 631,
+    "nama": "University of Central Florida",
+    "lokasi": "United States"
+  },
+  {
+    "id": 632,
+    "nama": "Central Queensland University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 633,
+    "nama": "Chongqing University",
+    "lokasi": "China"
+  },
+  {
+    "id": 634,
+    "nama": "Chung-Ang University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 635,
+    "nama": "Clark University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 636,
+    "nama": "University of Coimbra",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 637,
+    "nama": "University of Colombo",
+    "lokasi": "Sri Lanka"
+  },
+  {
+    "id": 638,
+    "nama": "COMSATS University Islamabad",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 639,
+    "nama": "Concordia University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 640,
+    "nama": "University of C�rdoba",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 641,
+    "nama": "University of Costa Rica",
+    "lokasi": "Costa Rica"
+  },
+  {
+    "id": 642,
+    "nama": "Covenant University",
+    "lokasi": "Nigeria"
+  },
+  {
+    "id": 643,
+    "nama": "Cyprus University of Technology",
+    "lokasi": "Cyprus"
+  },
+  {
+    "id": 644,
+    "nama": "Dalian University of Technology",
+    "lokasi": "China"
+  },
+  {
+    "id": 645,
+    "nama": "Delhi Technological University",
+    "lokasi": "India"
+  },
+  {
+    "id": 646,
+    "nama": "De Montfort University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 647,
+    "nama": "University of Derby",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 648,
+    "nama": "University of Desarrollo",
+    "lokasi": "Chile"
+  },
+  {
+    "id": 649,
+    "nama": "University of Dhaka",
+    "lokasi": "Bangladesh"
+  },
+  {
+    "id": 650,
+    "nama": "Dow University of Health Sciences",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 651,
+    "nama": "University of Eastern Finland",
+    "lokasi": "Finland"
+  },
+  {
+    "id": 652,
+    "nama": "Universidade Eduardo Mondlane",
+    "lokasi": "Mozambique"
+  },
+  {
+    "id": 653,
+    "nama": "University of Engineering and Technology, Taxila",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 654,
+    "nama": "ENSTA Bretagne",
+    "lokasi": "France"
+  },
+  {
+    "id": 655,
+    "nama": "E�tv�s Lor�nd University",
+    "lokasi": "Hungary"
+  },
+  {
+    "id": 656,
+    "nama": "Fayoum University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 657,
+    "nama": "Universidade Federal do Rio Grande do Sul",
+    "lokasi": "Brazil"
+  },
+  {
+    "id": 658,
+    "nama": "Universidade Federal de S�o Paulo (UNIFESP)",
+    "lokasi": "Brazil"
+  },
+  {
+    "id": 659,
+    "nama": "Federation University Australia",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 660,
+    "nama": "Financial University under the Government of the Russian Federation",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 661,
+    "nama": "Gabriele d�Annunzio University",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 662,
+    "nama": "University of Georgia",
+    "lokasi": "United States"
+  },
+  {
+    "id": 663,
+    "nama": "Glasgow Caledonian University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 664,
+    "nama": "University of Granada",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 665,
+    "nama": "Graphic Era University",
+    "lokasi": "India"
+  },
+  {
+    "id": 666,
+    "nama": "University of Graz",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 667,
+    "nama": "Graz University of Technology",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 668,
+    "nama": "Guangzhou University",
+    "lokasi": "China"
+  },
+  {
+    "id": 669,
+    "nama": "Guangzhou Medical University",
+    "lokasi": "China"
+  },
+  {
+    "id": 670,
+    "nama": "Hacettepe University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 671,
+    "nama": "University of Haifa",
+    "lokasi": "Israel"
+  },
+  {
+    "id": 672,
+    "nama": "Hamburg University of Technology",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 673,
+    "nama": "Hazara University Mansehra",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 674,
+    "nama": "University of Hertfordshire",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 675,
+    "nama": "University of Houston",
+    "lokasi": "United States"
+  },
+  {
+    "id": 676,
+    "nama": "University of Huddersfield",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 677,
+    "nama": "Icesi University",
+    "lokasi": "Colombia"
+  },
+  {
+    "id": 678,
+    "nama": "Ilam University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 679,
+    "nama": "Imam Abdulrahman Bin Faisal University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 680,
+    "nama": "Indian Institute of Technology Indore",
+    "lokasi": "India"
+  },
+  {
+    "id": 681,
+    "nama": "Indraprastha Institute of Information Technology Delhi",
+    "lokasi": "India"
+  },
+  {
+    "id": 682,
+    "nama": "International Islamic University, Islamabad",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 683,
+    "nama": "Iran University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 684,
+    "nama": "Istanbul Technical University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 685,
+    "nama": "Jagiellonian University",
+    "lokasi": "Poland"
+  },
+  {
+    "id": 686,
+    "nama": "Jamia Hamdard University",
+    "lokasi": "India"
+  },
+  {
+    "id": 687,
+    "nama": "Jawaharlal Nehru University",
+    "lokasi": "India"
+  },
+  {
+    "id": 688,
+    "nama": "Jiangsu University",
+    "lokasi": "China"
+  },
+  {
+    "id": 689,
+    "nama": "Jinan University",
+    "lokasi": "China"
+  },
+  {
+    "id": 690,
+    "nama": "University of Johannesburg",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 691,
+    "nama": "J�nk�ping University",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 692,
+    "nama": "The University of Jordan",
+    "lokasi": "Jordan"
+  },
+  {
+    "id": 693,
+    "nama": "Jouf University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 694,
+    "nama": "University of Kaiserslautern",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 695,
+    "nama": "Kalasalingam Academy of Research and Education",
+    "lokasi": "India"
+  },
+  {
+    "id": 696,
+    "nama": "Kansai Medical University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 697,
+    "nama": "University of Kashan",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 698,
+    "nama": "Universiti Kebangsaan Malaysia",
+    "lokasi": "Malaysia"
+  },
+  {
+    "id": 699,
+    "nama": "KIIT University",
+    "lokasi": "India"
+  },
+  {
+    "id": 700,
+    "nama": "King Saud bin Abdulaziz University for Health Sciences",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 701,
+    "nama": "Konkuk University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 702,
+    "nama": "Kore University of Enna",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 703,
+    "nama": "University of Kurdistan",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 704,
+    "nama": "Lahore University of Management Sciences",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 705,
+    "nama": "Lehigh University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 706,
+    "nama": "University of Limerick",
+    "lokasi": "Ireland"
+  },
+  {
+    "id": 707,
+    "nama": "London South Bank University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 708,
+    "nama": "University of Lorraine",
+    "lokasi": "France"
+  },
+  {
+    "id": 709,
+    "nama": "Louisiana State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 710,
+    "nama": "Lviv Polytechnic National University",
+    "lokasi": "Ukraine"
+  },
+  {
+    "id": 711,
+    "nama": "Maharishi Markandeshwar University (MMU)",
+    "lokasi": "India"
+  },
+  {
+    "id": 712,
+    "nama": "Majmaah University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 713,
+    "nama": "University of Malakand",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 714,
+    "nama": "Manchester Metropolitan University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 715,
+    "nama": "Mansoura University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 716,
+    "nama": "Marche Polytechnic University",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 717,
+    "nama": "University of Maryland, Baltimore County",
+    "lokasi": "United States"
+  },
+  {
+    "id": 718,
+    "nama": "Mashhad University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 719,
+    "nama": "Massey University",
+    "lokasi": "New Zealand"
+  },
+  {
+    "id": 720,
+    "nama": "Medical University of Lodz",
+    "lokasi": "Poland"
+  },
+  {
+    "id": 721,
+    "nama": "Memorial University of Newfoundland",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 722,
+    "nama": "Minia University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 723,
+    "nama": "Mizzou - University of Missouri",
+    "lokasi": "United States"
+  },
+  {
+    "id": 724,
+    "nama": "University of Mohaghegh Ardabili",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 725,
+    "nama": "University of Nairobi",
+    "lokasi": "Kenya"
+  },
+  {
+    "id": 726,
+    "nama": "University of Namibia",
+    "lokasi": "Namibia"
+  },
+  {
+    "id": 727,
+    "nama": "Nanjing Agricultural University",
+    "lokasi": "China"
+  },
+  {
+    "id": 728,
+    "nama": "Nantes Universit�",
+    "lokasi": "France"
+  },
+  {
+    "id": 729,
+    "nama": "National Cheng Kung University (NCKU)",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 730,
+    "nama": "National University of Science and Technology (MISiS)",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 731,
+    "nama": "National Taiwan University of Science and Technology (Taiwan Tech)",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 732,
+    "nama": "National Institute of Technology Silchar",
+    "lokasi": "India"
+  },
+  {
+    "id": 733,
+    "nama": "National Yunlin University of Science and Technology",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 734,
+    "nama": "Near East University",
+    "lokasi": "Northern Cyprus"
+  },
+  {
+    "id": 735,
+    "nama": "University of Nevada, Las Vegas",
+    "lokasi": "United States"
+  },
+  {
+    "id": 736,
+    "nama": "University of New Brunswick UNB",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 737,
+    "nama": "New Jersey Institute of Technology",
+    "lokasi": "United States"
+  },
+  {
+    "id": 738,
+    "nama": "University of North Carolina at Charlotte",
+    "lokasi": "United States"
+  },
+  {
+    "id": 739,
+    "nama": "North South University",
+    "lokasi": "Bangladesh"
+  },
+  {
+    "id": 740,
+    "nama": "North-West University",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 741,
+    "nama": "Norwegian University of Life Sciences",
+    "lokasi": "Norway"
+  },
+  {
+    "id": 742,
+    "nama": "NOVA University of Lisbon",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 743,
+    "nama": "University of Occupational and Environmental Health, Japan",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 744,
+    "nama": "Oklahoma State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 745,
+    "nama": "Ontario Tech University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 746,
+    "nama": "The Open University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 747,
+    "nama": "Oxford Brookes University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 748,
+    "nama": "University of Parma",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 749,
+    "nama": "Universidad Peruana Cayetano Heredia",
+    "lokasi": "Peru"
+  },
+  {
+    "id": 750,
+    "nama": "University of Perugia",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 751,
+    "nama": "Plekhanov Russian University of Economics",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 752,
+    "nama": "Polytechnic University of Bari",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 753,
+    "nama": "Polytechnic University of Turin",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 754,
+    "nama": "Prince Sattam Bin Abdulaziz University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 755,
+    "nama": "Universiti Putra Malaysia",
+    "lokasi": "Malaysia"
+  },
+  {
+    "id": 756,
+    "nama": "Qingdao University",
+    "lokasi": "China"
+  },
+  {
+    "id": 757,
+    "nama": "Universit� du Qu�bec",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 758,
+    "nama": "University of Regina",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 759,
+    "nama": "Rensselaer Polytechnic Institute",
+    "lokasi": "United States"
+  },
+  {
+    "id": 760,
+    "nama": "Riga Stradi?� University",
+    "lokasi": "Latvia"
+  },
+  {
+    "id": 761,
+    "nama": "Riphah International University",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 762,
+    "nama": "Rovira i Virgili University",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 763,
+    "nama": "RUDN University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 764,
+    "nama": "Universiti Sains Malaysia",
+    "lokasi": "Malaysia"
+  },
+  {
+    "id": 765,
+    "nama": "San Diego State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 766,
+    "nama": "University of Sannio",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 767,
+    "nama": "University of Santiago de Compostela",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 768,
+    "nama": "Savitribai Phule Pune University",
+    "lokasi": "India"
+  },
+  {
+    "id": 769,
+    "nama": "University of Campania Luigi Vanvitelli",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 770,
+    "nama": "Shanghai University",
+    "lokasi": "China"
+  },
+  {
+    "id": 771,
+    "nama": "Soochow University, China",
+    "lokasi": "China"
+  },
+  {
+    "id": 772,
+    "nama": "Southern Cross University",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 773,
+    "nama": "University of Strasbourg",
+    "lokasi": "France"
+  },
+  {
+    "id": 774,
+    "nama": "Sultan Qaboos University",
+    "lokasi": "Oman"
+  },
+  {
+    "id": 775,
+    "nama": "University of the Sunshine Coast",
+    "lokasi": "Australia"
+  },
+  {
+    "id": 776,
+    "nama": "SUNY Binghamton University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 777,
+    "nama": "University of Tabriz",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 778,
+    "nama": "Tabriz University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 779,
+    "nama": "Taif University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 780,
+    "nama": "Tallinn University of Technology",
+    "lokasi": "Estonia"
+  },
+  {
+    "id": 781,
+    "nama": "University of Tehran",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 782,
+    "nama": "Tehran University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 783,
+    "nama": "Universiti Teknologi Malaysia",
+    "lokasi": "Malaysia"
+  },
+  {
+    "id": 784,
+    "nama": "University of Texas at Arlington",
+    "lokasi": "United States"
+  },
+  {
+    "id": 785,
+    "nama": "The University of Texas at San Antonio",
+    "lokasi": "United States"
+  },
+  {
+    "id": 786,
+    "nama": "Thapar Institute of Engineering and Technology",
+    "lokasi": "India"
+  },
+  {
+    "id": 787,
+    "nama": "University of Toledo",
+    "lokasi": "United States"
+  },
+  {
+    "id": 788,
+    "nama": "Tomsk State University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 789,
+    "nama": "TU Braunschweig",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 790,
+    "nama": "University of Ulsan",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 791,
+    "nama": "Ulster University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 792,
+    "nama": "Umm Al-Qura University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 793,
+    "nama": "Paris Lodron Universit�t Salzburg",
+    "lokasi": "Austria"
+  },
+  {
+    "id": 794,
+    "nama": "Wenzhou University",
+    "lokasi": "China"
+  },
+  {
+    "id": 795,
+    "nama": "University of the Western Cape",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 796,
+    "nama": "University of the West of Scotland",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 797,
+    "nama": "University of Windsor",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 798,
+    "nama": "University of Wolverhampton",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 799,
+    "nama": "University of Wuppertal",
+    "lokasi": "Germany"
+  },
+  {
+    "id": 800,
+    "nama": "Xi�an Jiaotong-Liverpool University",
+    "lokasi": "China"
+  },
+  {
+    "id": 801,
+    "nama": "Yokohama City University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 802,
+    "nama": "Zhengzhou University",
+    "lokasi": "China"
+  },
+  {
+    "id": 803,
+    "nama": "University of the Aegean",
+    "lokasi": "Greece"
+  },
+  {
+    "id": 804,
+    "nama": "University of Agriculture, Faisalabad",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 805,
+    "nama": "The University of Aizu",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 806,
+    "nama": "The University of Alabama",
+    "lokasi": "United States"
+  },
+  {
+    "id": 807,
+    "nama": "Al-Azhar University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 808,
+    "nama": "Al-Balqa Applied University",
+    "lokasi": "Jordan"
+  },
+  {
+    "id": 809,
+    "nama": "University of Alcal�",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 810,
+    "nama": "Alexandria University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 811,
+    "nama": "Aligarh Muslim University",
+    "lokasi": "India"
+  },
+  {
+    "id": 812,
+    "nama": "American University in Cairo",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 813,
+    "nama": "Anna University",
+    "lokasi": "India"
+  },
+  {
+    "id": 814,
+    "nama": "University of Applied Sciences and Arts of Western Switzerland",
+    "lokasi": "Switzerland"
+  },
+  {
+    "id": 815,
+    "nama": "Aristotle University of Thessaloniki",
+    "lokasi": "Greece"
+  },
+  {
+    "id": 816,
+    "nama": "Athens University of Economics and Business",
+    "lokasi": "Greece"
+  },
+  {
+    "id": 817,
+    "nama": "Universidad Aut�noma de Chile",
+    "lokasi": "Chile"
+  },
+  {
+    "id": 818,
+    "nama": "University of Aveiro",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 819,
+    "nama": "University of the Balearic Islands",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 820,
+    "nama": "University of the Basque Country",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 821,
+    "nama": "University of Bedfordshire",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 822,
+    "nama": "University of Beira Interior",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 823,
+    "nama": "University of Belgrade",
+    "lokasi": "Serbia"
+  },
+  {
+    "id": 824,
+    "nama": "Beni-Suef University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 825,
+    "nama": "University of Bergamo",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 826,
+    "nama": "Bharathiar University",
+    "lokasi": "India"
+  },
+  {
+    "id": 827,
+    "nama": "Bilkent University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 828,
+    "nama": "Birla Institute of Technology and Science, Pilani",
+    "lokasi": "India"
+  },
+  {
+    "id": 829,
+    "nama": "Bo?azi�i University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 830,
+    "nama": "University of Brighton",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 831,
+    "nama": "Cairo University",
+    "lokasi": "Egypt"
+  },
+  {
+    "id": 832,
+    "nama": "University of Calabria",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 833,
+    "nama": "Chapman University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 834,
+    "nama": "Institute of Chemical Technology",
+    "lokasi": "India"
+  },
+  {
+    "id": 835,
+    "nama": "Chengdu University",
+    "lokasi": "China"
+  },
+  {
+    "id": 836,
+    "nama": "China University of Petroleum, Beijing",
+    "lokasi": "China"
+  },
+  {
+    "id": 837,
+    "nama": "Chulalongkorn University",
+    "lokasi": "Thailand"
+  },
+  {
+    "id": 838,
+    "nama": "Clemson University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 839,
+    "nama": "University of Clermont Auvergne",
+    "lokasi": "France"
+  },
+  {
+    "id": 840,
+    "nama": "Coventry University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 841,
+    "nama": "CY Cergy Paris University",
+    "lokasi": "France"
+  },
+  {
+    "id": 842,
+    "nama": "University of Dayton",
+    "lokasi": "United States"
+  },
+  {
+    "id": 843,
+    "nama": "University of Deusto",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 844,
+    "nama": "Diego Portales University",
+    "lokasi": "Chile"
+  },
+  {
+    "id": 845,
+    "nama": "Donghua University",
+    "lokasi": "China"
+  },
+  {
+    "id": 846,
+    "nama": "Duzce University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 847,
+    "nama": "Edge Hill University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 848,
+    "nama": "University of Engineering and Technology, Peshawar",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 849,
+    "nama": "Ewha Womans University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 850,
+    "nama": "Federal University of Minas Gerais",
+    "lokasi": "Brazil"
+  },
+  {
+    "id": 851,
+    "nama": "Universidade Federal de Sergipe",
+    "lokasi": "Brazil"
+  },
+  {
+    "id": 852,
+    "nama": "Firat University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 853,
+    "nama": "Florida Agricultural and Mechanical University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 854,
+    "nama": "Florida Atlantic University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 855,
+    "nama": "University of Foggia",
+    "lokasi": "Italy"
+  },
+  {
+    "id": 856,
+    "nama": "University of the Free State",
+    "lokasi": "South Africa"
+  },
+  {
+    "id": 857,
+    "nama": "Fujita Health University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 858,
+    "nama": "Fuzhou University",
+    "lokasi": "China"
+  },
+  {
+    "id": 859,
+    "nama": "University of Girona",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 860,
+    "nama": "Guangdong University of Technology",
+    "lokasi": "China"
+  },
+  {
+    "id": 861,
+    "nama": "Hiroshima University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 862,
+    "nama": "Indian Institute of Technology Patna",
+    "lokasi": "India"
+  },
+  {
+    "id": 863,
+    "nama": "Indian Institute of Technology Gandhinagar",
+    "lokasi": "India"
+  },
+  {
+    "id": 864,
+    "nama": "Universitat Internacional de Catalunya",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 865,
+    "nama": "University of Ioannina",
+    "lokasi": "Greece"
+  },
+  {
+    "id": 866,
+    "nama": "ISCTE-University Institute of Lisbon",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 867,
+    "nama": "The Islamia University of Bahawalpur",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 868,
+    "nama": "Istanbul Medeniyet University",
+    "lokasi": "Turkey"
+  },
+  {
+    "id": 869,
+    "nama": "ITMO University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 870,
+    "nama": "Iuliu Ha?ieganu University of Medicine and Pharmacy Cluj-Napoca",
+    "lokasi": "Romania"
+  },
+  {
+    "id": 871,
+    "nama": "University of Ja�n",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 872,
+    "nama": "Juntendo University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 873,
+    "nama": "Kansas State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 874,
+    "nama": "Karlstad University",
+    "lokasi": "Sweden"
+  },
+  {
+    "id": 875,
+    "nama": "Kazan Federal University",
+    "lokasi": "Russian Federation"
+  },
+  {
+    "id": 876,
+    "nama": "Keio University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 877,
+    "nama": "Kerman University of Medical Sciences",
+    "lokasi": "Iran"
+  },
+  {
+    "id": 878,
+    "nama": "Kindai University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 879,
+    "nama": "King Faisal University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 880,
+    "nama": "King Khalid University",
+    "lokasi": "Saudi Arabia"
+  },
+  {
+    "id": 881,
+    "nama": "King Mongkut�s University of Technology Thonburi",
+    "lokasi": "Thailand"
+  },
+  {
+    "id": 882,
+    "nama": "Kingston University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 883,
+    "nama": "KL University",
+    "lokasi": "India"
+  },
+  {
+    "id": 884,
+    "nama": "Kobe University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 885,
+    "nama": "Kurume University",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 886,
+    "nama": "Kuwait University",
+    "lokasi": "Kuwait"
+  },
+  {
+    "id": 887,
+    "nama": "Kyungpook National University",
+    "lokasi": "South Korea"
+  },
+  {
+    "id": 888,
+    "nama": "University of Lahore",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 889,
+    "nama": "Lakehead University",
+    "lokasi": "Canada"
+  },
+  {
+    "id": 890,
+    "nama": "University of La Laguna",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 891,
+    "nama": "University of Latvia",
+    "lokasi": "Latvia"
+  },
+  {
+    "id": 892,
+    "nama": "Leeds Beckett University",
+    "lokasi": "United Kingdom"
+  },
+  {
+    "id": 893,
+    "nama": "Lithuanian University of Health Sciences",
+    "lokasi": "Lithuania"
+  },
+  {
+    "id": 894,
+    "nama": "University of Ljubljana",
+    "lokasi": "Slovenia"
+  },
+  {
+    "id": 895,
+    "nama": "University of Lleida",
+    "lokasi": "Spain"
+  },
+  {
+    "id": 896,
+    "nama": "Lovely Professional University",
+    "lokasi": "India"
+  },
+  {
+    "id": 897,
+    "nama": "Mae Fah Luang University",
+    "lokasi": "Thailand"
+  },
+  {
+    "id": 898,
+    "nama": "Mahidol University",
+    "lokasi": "Thailand"
+  },
+  {
+    "id": 899,
+    "nama": "Makerere University",
+    "lokasi": "Uganda"
+  },
+  {
+    "id": 900,
+    "nama": "Universiti Malaysia Pahang",
+    "lokasi": "Malaysia"
+  },
+  {
+    "id": 901,
+    "nama": "University of Malta",
+    "lokasi": "Malta"
+  },
+  {
+    "id": 902,
+    "nama": "Manipal Academy of Higher Education",
+    "lokasi": "India"
+  },
+  {
+    "id": 903,
+    "nama": "Marquette University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 904,
+    "nama": "Masaryk University",
+    "lokasi": "Czech Republic"
+  },
+  {
+    "id": 905,
+    "nama": "Medical University of Gda?sk",
+    "lokasi": "Poland"
+  },
+  {
+    "id": 906,
+    "nama": "University of Memphis",
+    "lokasi": "United States"
+  },
+  {
+    "id": 907,
+    "nama": "University of Minho",
+    "lokasi": "Portugal"
+  },
+  {
+    "id": 908,
+    "nama": "Mississippi State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 909,
+    "nama": "University of Missouri-St Louis",
+    "lokasi": "United States"
+  },
+  {
+    "id": 910,
+    "nama": "Montana State University",
+    "lokasi": "United States"
+  },
+  {
+    "id": 911,
+    "nama": "Monterrey Institute of Technology",
+    "lokasi": "Mexico"
+  },
+  {
+    "id": 912,
+    "nama": "University of Namur",
+    "lokasi": "Belgium"
+  },
+  {
+    "id": 913,
+    "nama": "Nanjing Forestry University",
+    "lokasi": "China"
+  },
+  {
+    "id": 914,
+    "nama": "Nanjing University of Information Science and Technology",
+    "lokasi": "China"
+  },
+  {
+    "id": 915,
+    "nama": "Nanjing Normal University",
+    "lokasi": "China"
+  },
+  {
+    "id": 916,
+    "nama": "Nanjing Tech University",
+    "lokasi": "China"
+  },
+  {
+    "id": 917,
+    "nama": "National Institute of Applied Sciences of Lyon (INSA Lyon)",
+    "lokasi": "France"
+  },
+  {
+    "id": 918,
+    "nama": "�cole Nationale des Travaux Publics de l'�tat (ENTPE)",
+    "lokasi": "France"
+  },
+  {
+    "id": 919,
+    "nama": "National University of Sciences and Technology",
+    "lokasi": "Pakistan"
+  },
+  {
+    "id": 920,
+    "nama": "National Sun Yat-Sen University",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 921,
+    "nama": "National Taiwan Normal University",
+    "lokasi": "Taiwan"
+  },
+  {
+    "id": 922,
+    "nama": "National Technical University of Athens",
+    "lokasi": "Greece"
+  },
+  {
+    "id": 923,
+    "nama": "National Institute of Technology Hamirpur",
+    "lokasi": "India"
+  },
+  {
+    "id": 924,
+    "nama": "National Institute of Technology, Tiruchirappalli",
+    "lokasi": "India"
+  },
+  {
+    "id": 925,
+    "nama": "The New School",
+    "lokasi": "United States"
+  },
+  {
+    "id": 926,
+    "nama": "New Mexico State University (Main campus)",
+    "lokasi": "United States"
+  },
+  {
+    "id": 927,
+    "nama": "Nippon Medical School",
+    "lokasi": "Japan"
+  },
+  {
+    "id": 928,
+    "nama": "University of North Carolina at Greensboro",
+    "lokasi": "United States"
+  },
+  {
+    "id": 929,
+    "nama": "Northeastern University, China",
+    "lokasi": "China"
+  },
+  {
+    "id": 930,
+    "nama": "Northeast Normal University",
+    "lokasi": "China"
+  }
+]

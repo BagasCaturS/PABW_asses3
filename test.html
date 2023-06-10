@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>University Ranking</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css" />
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        var univ;
+
+        // Mendapatkan data universitas dari server
+        $.getJSON("https://api.jsonbin.io/v3/b/6483e27ab89b1e2299ac9bf3/latest", function (data) {
+          univ = data.record;
+
+          var table = $("<table>");
+          table.attr("id", "univ-table").addClass("display");
+          table.append("<thead><tr><th>ID</th><th>Nama</th><th>Lokasi</th><th>Aksi</th></tr></thead>");
+          table.append("<tbody>");
+          $.each(univ, function (index, item) {
+            var row =
+              '<tr data-id="' +
+              item.id +
+              '"><td>' +
+              item.id +
+              "</td><td>" +
+              item.nama +
+              "</td><td>" +
+              item.lokasi +
+              "</td>";
+            row +=
+              '<td><button class="edit-button" data-id="' +
+              item.id +
+              '">Edit</button>';
+            row +=
+              '<button class="delete-button" data-id="' +
+              item.id +
+              '">Delete</button></td></tr>';
+            table.append(row);
+          });
+          table.append("</tbody>");
+          $("#univ-table-container").append(table);
+          $("#univ-table").DataTable();
+        });
+
+        // Validasi form tambah unviersitas menggunakan jQuery Form Validation
+        $("#form-tambah-univ").validate({
+          rules: {
+            id: {
+              required: true,
+            },
+            nama: {
+              required: true,
+            },
+            lokasi: {
+              required: true,
+            },
+          },
+          messages: {
+            id: {
+              required: "ID Universitas harus diisi",
+            },
+            nama: {
+              required: "Nama Universitas harus diisi",
+            },
+            lokasi: {
+              required: "Lokasi Universitas harus diisi",
+            },
+          },
+          submitHandler: function (form) {
+            var id = $("#id").val();
+            var nama = $("#nama").val();
+            var lokasi = $("#lokasi").val();
+
+            // Mengirim data universitas baru ke server
+            $.ajax({
+              url: "https://api.jsonbin.io/v3/b/6483e27ab89b1e2299ac9bf3/latest",
+              type: "POST",
+              headers: {
+                "Content-Type": "application/json",
+                "X-Master-Key": "$2b$10$lw3AbGiLsAFiKayqkCKywuvLwzC8uNFfGWVywr3XJ4iUgoNgYDQNC",
+              },
+              data: JSON.stringify({ record: { id: id, nama: nama, lokasi: lokasi } }),
+              success: function (response) {
+                var data = response.record;
+
+                // Menambahkan data universitas baru ke tabel
+                var newRow =
+                  '<tr data-id="' +
+                  data.id +
+                  '"><td>' +
+                  data.id +
+                  "</td><td>" +
+                  data.nama +
+                  "</td><td>" +
+                  data.lokasi +
+                  "</td>";
+                newRow +=
+                  '<td><button class="edit-button" data-id="' +
+                  data.id +
+                  '">Edit</button>';
+                newRow +=
+                  '<button class="delete-button" data-id="' +
+                  data.id +
+                  '">Delete</button></td></tr>';
+                var table = $("#univ-table").DataTable();
+                table.row.add($(newRow)).draw();
+
+                // Mengosongkan input form
+                $("#id").val("");
+                $("#nama").val("");
+                $("#lokasi").val("");
+              },
+              error: function (xhr, status, error) {
+                console.error(error);
+              },
+            });
+          },
+        });
+
+        // Menangani klik tombol Edit
+        $(document).on("click", ".edit-button", function () {
+          var univid = $(this).data("id");
+
+          // Mengambil data universitas yang akan diupdate dari server
+          $.getJSON("https://api.jsonbin.io/v3/b/6483e27ab89b1e2299ac9bf3/latest" + univid, function (data) {
+            var univData = data.record;
+
+            $("#edit-id").val(univData.id);
+            $("#edit-nama").val(univData.nama);
+            $("#edit-lokasi").val(univData.lokasi);
+            $("#edit-dialog").dialog("open");
+          });
+        });
+
+        // Menangani klik tombol Delete
+        $(document).on("click", ".delete-button", function () {
+          var univid = $(this).data("id");
+          var confirmation = confirm("Apakah Anda yakin ingin menghapus univ ini?");
+
+          if (confirmation) {
+            // Menghapus data universitas dari server
+            $.ajax({
+              url: "https://api.jsonbin.io/v3/b/6483e27ab89b1e2299ac9bf3/latest" + univid,
+              type: "DELETE",
+              headers: {
+                "X-Master-Key": "$2b$10$lw3AbGiLsAFiKayqkCKywuvLwzC8uNFfGWVywr3XJ4iUgoNgYDQNC",
+              },
+              success: function (response) {
+                // Menghapus baris data universitas dari tabel
+                var table = $("#univ-table").DataTable();
+                table.row($('tr[data-id="' + univid + '"]')).remove().draw();
+              },
+              error: function (xhr, status, error) {
+                console.error(error);
+              },
+            });
+          }
+        });
+
+        // Validasi form update universitas menggunakan jQuery Form Validation
+        $("#form-edit-univ").validate({
+          rules: {
+            "edit-id": {
+              required: true,
+            },
+            "edit-nama": {
+              required: true,
+            },
+            "edit-lokasi": {
+              required: true,
+            },
+          },
+          messages: {
+            "edit-id": {
+              required: "ID Universitas harus diisi",
+            },
+            "edit-nama": {
+              required: "Nama Universitas harus diisi",
+            },
+            "edit-lokasi": {
+              required: "Lokasi Universitas harus diisi",
+            },
+          },
+          submitHandler: function (form) {
+            var id = $("#edit-id").val();
+            var nama = $("#edit-nama").val();
+            var lokasi = $("#edit-lokasi").val();
+
+            // Mengirim data universitas yang diupdate ke server
+            $.ajax({
+              url: "https://api.jsonbin.io/v3/b/6483e27ab89b1e2299ac9bf3/latest" + id,
+              type: "PUT",
+              headers: {
+                "Content-Type": "application/json",
+                "X-Master-Key": "$2b$10$lw3AbGiLsAFiKayqkCKywuvLwzC8uNFfGWVywr3XJ4iUgoNgYDQNC",
+              },
+              data: JSON.stringify({ record: { id: id, nama: nama, lokasi: lokasi } }),
+              success: function (response) {
+                // Menampilkan data universitas yang telah diupdate di tabel
+                var updatedRow =
+                  "<td>" +
+                  id +
+                  "</td><td>" +
+                  nama +
+                  "</td><td>" +
+                  lokasi +
+                  "</td>";
+                updatedRow +=
+                  '<td><button class="edit-button" data-id="' +
+                  id +
+                  '">Edit</button>';
+                updatedRow +=
+                  '<button class="delete-button" data-id="' +
+                  id +
+                  '">Delete</button></td>';
+                var table = $("#univ-table").DataTable();
+                table.row($('tr[data-id="' + id + '"]')).data($(updatedRow)).draw();
+
+                // Menutup dialog edit
+                $("#edit-dialog").dialog("close");
+              },
+              error: function (xhr, status, error) {
+                console.error(error);
+              },
+            });
+          },
+        });
+
+        // Konfigurasi dialog edit menggunakan jQuery UI
+        $("#edit-dialog").dialog({
+          autoOpen: false,
+          modal: true,
+          buttons: {
+            Update: function () {
+              $("#form-edit-univ").submit();
+            },
+            Cancel: function () {
+              $(this).dialog("close");
+            },
+          },
+        });
+      });
+    </script>
+    <style>
+      #univ-table-container {
+        margin-top: 20px;
+      }
+
+      #edit-dialog {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Tampilan universitas</h1>
+
+    <div id="univ-table-container"></div>
+
+    <h2>Tambah universitas</h2>
+    <form id="form-tambah-univ">
+      <label for="id">ID:</label>
+      <input type="text" id="id" name="id" required /><br />
+
+      <label for="nama">Nama:</label>
+      <input type="text" id="nama" name="nama" required /><br />
+
+      <label for="lokasi">Lokasi:</label>
+      <input type="text" id="lokasi" name="lokasi" required /><br />
+
+      <button type="submit">Tambah</button>
+    </form>
+
+    <div id="edit-dialog" title="Edit universitas">
+      <form id="form-edit-univ">
+        <label for="edit-id">ID:</label>
+        <input type="text" id="edit-id" name="edit-id" readonly /><br />
+
+        <label for="edit-nama">Nama:</label>
+        <input type="text" id="edit-nama" name="edit-nama" required /><br />
+
+        <label for="edit-lokasi">Lokasi:</label>
+        <input type="text" id="edit-lokasi" name="edit-lokasi" required /><br />
+      </form>
+    </div>
+  </body>
+</html>
